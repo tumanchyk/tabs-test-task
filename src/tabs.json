@@ -1,0 +1,60 @@
+[
+  {
+    "id": "list",
+    "title": "List",
+    "data": [
+      "The best way to approach your tank clean is to start at the top before working your way down to the bottom. With that in mind, the first job on the to-do list is to get rid of any algae that's stuck to your tank's glass.",
+      "With all the algae now settled on the gravel down below, it's time to give the gravel itself a quick clean – thus getting rid of any flakes of uneaten food or waste too.",
+      "Once you've cleaned the gravel, you'll notice the water level in the tank will have dropped (between 10% and 20% is normal) – so now it's time to top it back up again. To do this, simply use a designated jug to transfer water into the tank – just make sure the water you're adding has been treated to suit your fish (and make sure it’s about the same temperature as your tank too!).",
+      "Last on the list of jobs is to clean your filter. This only has to be done once every two weeks or so. To do this, simply pop open your filter, remove the sponge from within and soak in the dirty water you've just removed from the tank."
+    ],
+    "order": 0,
+    "path": "/"
+  },
+  {
+    "id": "table",
+    "title": "Table",
+    "data": {
+      "headers": ["Code", "Company", "Price", "Change", "Change %"],
+      "rows": [
+        {
+          "code": "AAC",
+          "company": "AUSTRALIAN COMPANY",
+          "price": "$1.38",
+          "change": "+2.01",
+          "change$": "-0.36%"
+        },
+        {
+          "code": "AAD",
+          "company": "AAUSENCO",
+          "price": "$2.38",
+          "change": "-0.01",
+          "change$": "-1.36%"
+        },
+        {
+          "code": "AAC",
+          "company": "ADELAIDE",
+          "price": "$3.22",
+          "change": "+0.01",
+          "change$": "+1.36%"
+        },
+        {
+          "code": "AAC",
+          "company": "AUSTRALIAN COMPANY",
+          "price": "$1.38",
+          "change": "+2.01",
+          "change$": "-0.36%"
+        }
+      ]
+    },
+    "order": 1,
+    "path": "table"
+  },
+  {
+    "id": "chart",
+    "title": "Chart",
+    "order": 2,
+    "path": "chart",
+    "data": "https://apexcharts.com/wp-content/uploads/2018/05/simple-pie-chart.svg"
+  }
+]
